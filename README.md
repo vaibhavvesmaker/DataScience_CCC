@@ -51,3 +51,4 @@ This repository contains scripts and notebooks for analyzing a simulated dataset
 This project provides an advanced framework for analyzing auto insurance claims dataset, leveraging machine learning, NLP, and AWS cloud services. For questions or feedback, please contact Vaibhav Vesmaker.
 ---
 
+Learn and Improve
